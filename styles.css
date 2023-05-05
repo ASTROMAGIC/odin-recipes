@@ -5,4 +5,9 @@ body {
 
 head {
     font-family: 'Franklin Gothic Medium';
+    background-color: black;
+    align-items: center;
+}
+#recipes {
+    align-items: center;
 }
