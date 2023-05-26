@@ -1,14 +1,29 @@
 body {
     color: darkseagreen;
-    background-color: black;
+    background-color: rgb(0, 0, 0);
+    display: grid;
+    place-items: center;
+    
+}
 
+#soma {
+    height: 500px;
+    width: 500px;
+    border-radius: 1%;
+
+}
+
+#header {
+    font-family: 'Franklin Gothic Medium';
+    text-align: center;
+    background-color: black;
 }
 
 head {
     font-family: 'Franklin Gothic Medium';
     background-color: black;
-    align-items: center;
 }
+
 #recipes {
-    align-items: center;
+   background-color: darkseagreen;
 }
