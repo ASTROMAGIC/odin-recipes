@@ -2,7 +2,7 @@
     border: 2px solid green;
 }
 body {
-    color: darkseagreen;
+    color: rgb(0, 0, 0);
     background-color: rgb(0, 0, 0);
     display: grid;
     place-items: center;
@@ -12,19 +12,22 @@ body {
 #soma {
     height: 509px;
     width: 500px;
-    border-radius: 1%;
+    border-radius: 10%;
+    border-style: groove;
 
 }
 
 #header {
     font-family: 'Franklin Gothic Medium';
     text-align: center;
-    background-color: black;
+    background-color: rgb(0, 255, 8);
+    
 }
+/*this is the header that contains odin special recipes title*/
 
 head {
     font-family: 'Franklin Gothic Medium';
-    background-color: black;
+    background-color: rgb(0, 255, 55);
 }
 
 #recipes {
